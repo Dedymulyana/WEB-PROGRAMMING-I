@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	
+
+}
+
+#nav{
+	margin: 10;
+	padding: 20px;
+	background-color: #08303f;
+	color: #ffffff;
+	
+
+
+}
+
+#nav #kanan{
+	float: right;
+	color: white;
+}
+
+#header{
+	margin: 20;
+	padding: 20px;
+	background-color: #f3f3f3;
+}
+
+.nama{
+	float: right;
+}
+
